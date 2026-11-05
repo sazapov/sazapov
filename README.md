@@ -21,12 +21,6 @@ I'm an Informatics student with an interest in technology, programming, and inte
 
 
 ---
-
-### 📊 GitHub Stats
-
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
