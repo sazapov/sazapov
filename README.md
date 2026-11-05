@@ -31,18 +31,16 @@ I'm an Informatics student with an interest in technology, programming, and inte
 
 <hr>
 
-
 <h2 align="left">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sazapov&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazapov&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sazapov&theme=tokyonight" width="100%">
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sazapov&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sazapov&theme=tokyonight" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sazapov&theme=tokyonight" width="49%">
 </p>
-
 
 <h2 align="left">🚀 Projects</h2>
 
