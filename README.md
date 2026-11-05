@@ -35,3 +35,11 @@ I'm an Informatics student with an interest in technology, programming, and inte
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,flutter,firebase,java,figma" />
 </p>
+
+---
+
+### 📈 My GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sazapov&theme=github-compact&hide_border=true" width="100%" />
+</p>
