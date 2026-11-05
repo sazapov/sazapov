@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Spanduk%20Workspace%20Saza%20yang%20Nyaman.png" width="100%" />
+  <img src="./coding_under_1mb.jpg" width="100%" />
 </p>
 
 # Hi, I'm Saza! 
