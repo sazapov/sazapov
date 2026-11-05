@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="./coding_under_1mb.jpg" width="100%" />
+  <p align="center">
+  <img src="./saza-github-banner.jpg" width="100%" alt="Anisah Fai'zah Ramadhanthi">
 </p>
 
 # Hi, I'm Saza! 
