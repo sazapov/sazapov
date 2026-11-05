@@ -83,3 +83,9 @@ I'm an Informatics student with an interest in technology, programming, and inte
   <i>"Turning ideas into meaningful digital experiences."</i>
 </p>
 
+<h2 align="center">🐍 My Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sazapov/sazapov/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Contribution">
+</p>
+
