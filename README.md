@@ -19,6 +19,9 @@ I'm an Informatics student with an interest in technology, programming, and inte
 
 **"Turning ideas into meaningful digital experiences."**
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Informatics+Student+%F0%9F%8E%93;Aspiring+Developer+%F0%9F%92%BB;UI+Designer+%F0%9F%8E%A8;Always+Learning+New+Things+%E2%9C%A8" />
+</p>
 
 ---
 <hr>
