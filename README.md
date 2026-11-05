@@ -21,7 +21,7 @@ I'm an Informatics student with an interest in technology, programming, and inte
 
 
 ---
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=sazapov&show_icons=true&theme=default&hide_border=true" width="48%" />
@@ -30,7 +30,7 @@ I'm an Informatics student with an interest in technology, programming, and inte
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,flutter,firebase,java,figma" />
@@ -38,7 +38,7 @@ I'm an Informatics student with an interest in technology, programming, and inte
 
 ---
 
-### 📫 Contact Me
+### Contact Me
 
 <p align="center">
   <a href="https://www.instagram.com/nisafzhr">
