@@ -45,3 +45,11 @@ I'm an Informatics student with an interest in technology, programming, and inte
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+<h2 align="center">🎮 Saza's Mini Arcade</h2>
+
+<p align="center">
+  <a href="https://sazapov.github.io/jone-bakery/kasir_app/snake-game/">
+    🐍 Play My Snake Game
+  </a>
+</p>
