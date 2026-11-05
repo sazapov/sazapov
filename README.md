@@ -30,14 +30,6 @@ I'm an Informatics student with an interest in technology, programming, and inte
 
 ---
 
-### Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,flutter,firebase,java,figma" />
-</p>
-
----
-
 ### Contact Me
 
 <p align="center">
