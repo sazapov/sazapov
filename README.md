@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Spanduk%20Workspace%20Saza%20yang%20Nyaman.png" width="100%" />
+</p>
+
 # Hi, I'm Saza! 
 
 ### 🎓 Informatics Student | Aspiring Developer | UI Designer
