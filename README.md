@@ -18,3 +18,14 @@ I'm an Informatics student with an interest in technology, programming, and inte
 ---
 
 **"Turning ideas into meaningful digital experiences."**
+
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sazapov&show_icons=true&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazapov&layout=compact&hide_border=true" width="48%" />
+</p>
+
