@@ -35,3 +35,13 @@ I'm an Informatics student with an interest in technology, programming, and inte
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,flutter,firebase,java,figma" />
 </p>
+
+---
+
+### 📫 Contact Me
+
+<p align="center">
+  <a href="https://www.instagram.com/nisafzhr">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
