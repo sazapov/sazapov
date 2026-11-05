@@ -28,3 +28,10 @@ I'm an Informatics student with an interest in technology, programming, and inte
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sazapov&layout=compact&hide_border=true" width="48%" />
 </p>
 
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,flutter,firebase,java,figma" />
+</p>
