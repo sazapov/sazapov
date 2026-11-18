@@ -5,7 +5,7 @@
 
 # Hi, I'm Saza! 
 
-###  Informatics Student | Aspiring Developer | UI Designer
+### Informatics Student | Aspiring Developer | UI Designer
 
 Welcome to my GitHub profile!
 
@@ -35,7 +35,7 @@ I'm an Informatics student with an interest in technology, programming, and inte
 
 <hr>
 
-<h2 align="left">GitHub Statistics</h2>
+<h2 align="left">Statistics</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sazapov&theme=tokyonight" width="100%">
